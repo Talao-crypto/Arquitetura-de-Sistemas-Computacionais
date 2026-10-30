@@ -1,0 +1,2 @@
+PASS: GHDL 4.1.0 --synth --std=08 cpu_core; exit status 0.
+Nucleo apenas. Nao valida altsyncram, Quartus, fitter ou timing.

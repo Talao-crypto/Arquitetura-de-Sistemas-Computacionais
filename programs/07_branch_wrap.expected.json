@@ -1,0 +1,25 @@
+{
+  "instructions": 3,
+  "pc": 1,
+  "registers": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "opcodes": [
+    8,
+    10
+  ],
+  "branch_outcomes": [
+    [
+      8,
+      true
+    ]
+  ],
+  "writes": []
+}

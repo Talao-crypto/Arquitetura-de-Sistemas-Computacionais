@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-30",
+  "simulator": "GHDL 4.1.0 mcode",
+  "programs": 7,
+  "testbench_runs_passed": 17,
+  "rtl_instructions_compared": 536,
+  "opcodes_covered": 11,
+  "branch_outcomes_covered": 4,
+  "mif_hex_pairs_verified": 7,
+  "unique_pin_assignments": 88,
+  "quartus_compilation": "NOT RUN",
+  "hardware_test": "NOT RUN"
+}

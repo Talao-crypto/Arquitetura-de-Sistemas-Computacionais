@@ -1,0 +1,8 @@
+01_isa: 13 instrucoes; R=[1, 10, 65533, 7, 13, 7, 65535, 1]
+02_branches: 16 instrucoes; R=[0, 0, 3, 0, 0, 0, 0, 0]
+03_limits: 18 instrucoes; R=[0, 32768, 32768, 1, 1, 65535, 256, 65535]
+04_offsets: 7 instrucoes; R=[0, 1, 7, 9, 0, 0, 0, 0]
+05_random: 206 instrucoes; R=[0, 213, 232, 0, 0, 488, 256, 488]
+06_pc_wrap: 5 instrucoes; R=[0, 1, 0, 0, 0, 0, 0, 0]
+07_branch_wrap: 3 instrucoes; R=[0, 0, 0, 0, 0, 0, 0, 0]
+PASS: oracle, assembler; 268 instrucoes, 11 opcodes, 4 resultados de desvio

@@ -1,0 +1,3 @@
+000  803F  BEQ R0, R0, -1
+001  A001  JMP fim
+FFF  A001  JMP fim
