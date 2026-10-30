@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="490" height="335" preserveAspectRatio="xMinYMin meet" viewBox="0 0 490 335" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="490" height="335"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-335)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="190" y="290" width="110" height="30" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="221.47265625" y="302.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,604) scale(1,-1)">FETCH_REQ</text>
+			<rect x="190" y="240" width="110" height="30" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="216.71875" y="252.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,504) scale(1,-1)">FETCH_LATCH</text>
+			<rect x="190" y="190" width="110" height="30" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="227.84375" y="202.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,404) scale(1,-1)">DECODE</text>
+			<rect x="190" y="140" width="110" height="30" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="226.513671875" y="152.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,304) scale(1,-1)">EXECUTE</text>
+			<polyline points="245 290, 245 270" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="245 270, 247.3971 274.3879, 242.6029 274.3879" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<polyline points="245 240, 245 220" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="245 220, 247.3971 224.3879, 242.6029 224.3879" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<polyline points="245 190, 245 170" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="245 170, 247.3971 174.3879, 242.6029 174.3879" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<rect x="20" y="65" width="105" height="35" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="48.71875" y="79.5" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,159) scale(1,-1)">WRITEBACK</text>
+			<rect x="185" y="65" width="115" height="35" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="218.9921875" y="79.5" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,159) scale(1,-1)">LOAD_WAIT</text>
+			<rect x="335" y="65" width="115" height="35" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="367.6328125" y="79.5" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,159) scale(1,-1)">STORE_MEM</text>
+			<rect x="185" y="5" width="115" height="35" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="210.6875" y="19.5" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,39) scale(1,-1)">LOAD_CAPTURE</text>
+			<rect x="370" y="140" width="80" height="30" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="397.36328125" y="152.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,304) scale(1,-1)">FAULT</text>
+			<polyline points="190 150, 72 150, 72 100" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="72 100, 74.39713 104.3879, 69.60287 104.3879" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<text x="83" y="156" style="font-family: CPUFont; font-size: 7px;fill: rgb(31%,38%,45%); stroke:none;" transform="translate(0,312) scale(1,-1)">R / ADDI</text>
+			<polyline points="245 140, 245 100" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="245 100, 247.3971 104.3879, 242.6029 104.3879" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<text x="252" y="119" style="font-family: CPUFont; font-size: 7px;fill: rgb(31%,38%,45%); stroke:none;" transform="translate(0,238) scale(1,-1)">LD</text>
+			<polyline points="300 150, 325 150, 392 100" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="392 100, 389.9171 104.5455, 387.0497 100.7032" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<text x="337" y="124" style="font-family: CPUFont; font-size: 7px;fill: rgb(31%,38%,45%); stroke:none;" transform="translate(0,248) scale(1,-1)">ST</text>
+			<polyline points="300 160, 370 160" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="370 160, 365.6121 162.3971, 365.6121 157.6029" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<text x="319" y="167" style="font-family: CPUFont; font-size: 7px;fill: rgb(31%,38%,45%); stroke:none;" transform="translate(0,334) scale(1,-1)">B..F</text>
+			<polyline points="245 65, 245 40" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="245 40, 247.3971 44.38791, 242.6029 44.38791" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<polyline points="185 20, 72 20, 72 65" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="72 65, 69.60287 60.61209, 74.39713 60.61209" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<polyline points="20 83, 5 83, 5 305, 190 305" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="190 305, 185.6121 307.3971, 185.6121 302.6029" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<polyline points="450 83, 475 83, 475 305, 300 305" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="300 305, 304.3879 302.6029, 304.3879 307.3971" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<polyline points="190 160, 155 160, 155 280, 190 300" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="190 300, 185.0009 299.9043, 187.3795 295.7417" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<text x="45" y="275" style="font-family: CPUFont; font-size: 7px;fill: rgb(31%,38%,45%); stroke:none;" transform="translate(0,550) scale(1,-1)">BEQ/BNE/JMP</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="490" height="455" preserveAspectRatio="xMinYMin meet" viewBox="0 0 490 455" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="490" height="455"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-455)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="150" y="385" width="145" height="45" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="179.224609375" y="409.5" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,819) scale(1,-1)">Banco R0..R7 / 8 x 16</text>
+			<text x="182.490234375" y="399.5" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,799) scale(1,-1)">2 leituras / 1 escrita</text>
+			<rect x="85" y="310" width="60" height="30" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="102.478515625" y="322.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,644) scale(1,-1)">A = Rj</text>
+			<rect x="235" y="310" width="65" height="30" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="248.52734375" y="322.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,644) scale(1,-1)">B = Rk/Ri</text>
+			<rect x="355" y="310" width="110" height="30" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="375.314453125" y="322.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,644) scale(1,-1)">Extensao 6 -&gt; 16</text>
+			<rect x="250" y="240" width="80" height="30" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="264.0703125" y="252.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,504) scale(1,-1)">MUX B / imm</text>
+			<rect x="85" y="240" width="95" height="30" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="107.052734375" y="252.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,504) scale(1,-1)">ULA / 16 bits</text>
+			<rect x="85" y="165" width="95" height="30" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="108.375" y="177.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,354) scale(1,-1)">ALUOut / 16</text>
+			<rect x="310" y="150" width="100" height="30" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="330.861328125" y="162.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,324) scale(1,-1)">MUX endereco</text>
+			<rect x="420" y="210" width="65" height="30" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="438.314453125" y="222.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,444) scale(1,-1)">PC / 12</text>
+			<rect x="310" y="80" width="100" height="40" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="329.58203125" y="97.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,194) scale(1,-1)">RAM 4096 x 16</text>
+			<rect x="310" y="15" width="100" height="30" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="341.708984375" y="27.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,54) scale(1,-1)">RDM / 16</text>
+			<rect x="425" y="80" width="60" height="40" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="442.060546875" y="97.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,194) scale(1,-1)">RI / 16</text>
+			<rect x="85" y="15" width="110" height="30" rx="5" ry="5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<text x="110.046875" y="27.0" style="font-family: CPUFont; font-size: 8px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,54) scale(1,-1)">MUX writeback</text>
+			<polyline points="175 385, 115 365, 115 340" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="115 340, 117.3971 344.3879, 112.6029 344.3879" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<text x="120" y="360" style="font-family: CPUFont; font-size: 7px;fill: rgb(31%,38%,45%); stroke:none;" transform="translate(0,720) scale(1,-1)">Rj</text>
+			<polyline points="265 385, 267 340" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="267 340, 269.1999 344.49, 264.4104 344.2772" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<text x="275" y="359" style="font-family: CPUFont; font-size: 7px;fill: rgb(31%,38%,45%); stroke:none;" transform="translate(0,718) scale(1,-1)">Rk ou Ri</text>
+			<polyline points="115 310, 115 270" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="115 270, 117.3971 274.3879, 112.6029 274.3879" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<polyline points="267 310, 267 270" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="267 270, 269.3971 274.3879, 264.6029 274.3879" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<polyline points="410 310, 410 285, 310 285, 310 270" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="310 270, 312.3971 274.3879, 307.6029 274.3879" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<polyline points="250 255, 180 255" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="180 255, 184.3879 252.6029, 184.3879 257.3971" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<text x="204" y="261" style="font-family: CPUFont; font-size: 7px;fill: rgb(31%,38%,45%); stroke:none;" transform="translate(0,522) scale(1,-1)">alu_b</text>
+			<polyline points="132 240, 132 195" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="132 195, 134.3971 199.3879, 129.6029 199.3879" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<text x="139" y="213" style="font-family: CPUFont; font-size: 7px;fill: rgb(31%,38%,45%); stroke:none;" transform="translate(0,426) scale(1,-1)">alu_y</text>
+			<polyline points="180 180, 260 180, 260 165, 310 165" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="310 165, 305.6121 167.3971, 305.6121 162.6029" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<text x="200" y="187" style="font-family: CPUFont; font-size: 7px;fill: rgb(31%,38%,45%); stroke:none;" transform="translate(0,374) scale(1,-1)">bits 11..0</text>
+			<polyline points="452 210, 452 165, 410 165" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="410 165, 414.3879 162.6029, 414.3879 167.3971" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<polyline points="360 150, 360 120" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="360 120, 362.3971 124.3879, 357.6029 124.3879" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<text x="365" y="133" style="font-family: CPUFont; font-size: 7px;fill: rgb(31%,38%,45%); stroke:none;" transform="translate(0,266) scale(1,-1)">addr / 12</text>
+			<polyline points="300 325, 340 325, 340 200, 290 200, 290 100, 310 100" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="310 100, 305.6121 102.3971, 305.6121 97.60287" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<text x="236" y="110" style="font-family: CPUFont; font-size: 7px;fill: rgb(31%,38%,45%); stroke:none;" transform="translate(0,220) scale(1,-1)">B / dado ST</text>
+			<polyline points="360 80, 360 45" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="360 45, 362.3971 49.38791, 357.6029 49.38791" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<text x="365" y="61" style="font-family: CPUFont; font-size: 7px;fill: rgb(31%,38%,45%); stroke:none;" transform="translate(0,122) scale(1,-1)">q / 16</text>
+			<polyline points="410 90, 425 90" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="425 90, 420.6121 92.39713, 420.6121 87.60287" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<polyline points="310 30, 195 30" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="195 30, 199.3879 27.60287, 199.3879 32.39713" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<polyline points="132 165, 132 45" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="132 45, 134.3971 49.38791, 129.6029 49.38791" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<polyline points="85 30, 25 30, 25 410, 150 410" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1.1; fill: None; fill-rule: evenodd;"/>
+			<polygon points="150 410, 145.6121 412.3971, 145.6121 407.6029" style="stroke: rgb(31%,38%,45%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,38%,45%); fill-rule: evenodd;"/>
+			<text x="30" y="440" style="font-family: CPUFont; font-size: 7px;fill: rgb(31%,38%,45%); stroke:none;" transform="translate(0,880) scale(1,-1)">Ri / RegWrite</text>
+			<text x="160" y="68" style="font-family: Times-Roman; font-size: 7px;fill: rgb(31%,38%,45%); stroke:none;" transform="translate(0,136) scale(1,-1)">LD seleciona RDM; demais selecionam ALUOut.</text>
+		</g>
+	</g>
+</svg>
